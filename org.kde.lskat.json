@@ -7,7 +7,6 @@
     "rename-icon": "lskat",
     "finish-args": [
         "--share=ipc", 
-        "--socket=x11", 
         "--socket=wayland",
         "--socket=fallback-x11",
         "--device=dri"
@@ -20,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/libkdegames-22.08.2.tar.xz",
-                    "sha256": "524ad11b13ac946d86e599a7a255b651f9377fad4433a4ec22924c8f54cc6dbd",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkdegames-22.08.3.tar.xz",
+                    "sha256": "4ccf4d5d5530f464d901ece7ea55299d9fb6c2349e824f92e0aa1f8e1732a097",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -37,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/lskat-22.08.2.tar.xz",
-                    "sha256": "082106e4e285db1e3f54e3afff8cc1bed2b47c4f5d96d7c1228b6f37e820882f",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/lskat-22.08.3.tar.xz",
+                    "sha256": "d627b23ad3c6416ef34525b6214b3193cbf0b18edb1a12dce90d7e0c4f27671c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
