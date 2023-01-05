@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/lskat-22.12.0.tar.xz",
-                    "sha256": "e45cfd88cff4fdf4de36a2e11e5721652e24f84dc596bfaf2e9d2ac2ef139158",
+                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/lskat-22.12.1.tar.xz",
+                    "sha256": "4957d16bc97ba76128ca2bb04db947a93af87bbeb90358059d5ad36f26213d6b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
